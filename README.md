@@ -1,6 +1,9 @@
 # tmux config
 
-My personal `tmux` configuration.
+This is my personal `tmux` configuration. It's constantly evolving, and I'm
+always adapting it to my current needs and requirements. This repository can
+serve as inspiration for your own configuration. I'd also like to recommend the
+website [tmux.info](https://tmux.info).
 
 ## Features
 
